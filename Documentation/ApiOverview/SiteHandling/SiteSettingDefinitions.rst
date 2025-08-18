@@ -75,6 +75,7 @@ Site setting definition properties
         ..  confval:: label
             :type: string
             :name: site-settings-definition-settings-label
+            :required:
 
         ..  confval:: description
             :type: string
